@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # Rails_Blog_squelette
+
+Squelette de blog rails avec créations d'articles et commentaires.
